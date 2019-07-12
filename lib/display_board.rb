@@ -8,6 +8,6 @@ def display_board(game)
   puts " #{game[6]} | #{game[7]} | #{game[8]} "
 end
 
-game = [X]
+game = ["X"]
 
 puts display_board(game)
