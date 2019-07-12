@@ -7,3 +7,5 @@ def display_board(game)
   puts "-----------"
   puts " #{game[6]} | #{game[7]} | #{game[8]} "
 end
+
+game = []
