@@ -9,3 +9,5 @@ def display_board(game)
 end
 
 game = []
+
+puts display_board(game)
